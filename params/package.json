@@ -1,0 +1,14 @@
+{
+  "name": "params",
+  "version": "1.0.0",
+  "description": "This is so cool app, right?",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Jawann Carmona",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
